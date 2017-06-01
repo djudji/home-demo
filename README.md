@@ -1,6 +1,6 @@
 # Home
 
-A demo app showing off a React on Rails integration.
+A demo app showing off a React on Rails integration. Found in [Great Blog Post]
 
 ## Installation
 
@@ -10,3 +10,5 @@ A demo app showing off a React on Rails integration.
 4. Run `yarn install`
 5. Run `yarn run rails-server`
 6. Visit http://localhost:5000 in the browser
+
+[Great Blog Post]: https://blog.codeship.com/using-react-inside-your-rails-apps/
